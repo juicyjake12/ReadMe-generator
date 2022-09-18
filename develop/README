@@ -1,0 +1,28 @@
+# ReadMe Generator
+  ## Badges
+  [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  ## Table of Contents
+  * [License](#license)
+  * [Description](#description)
+  * [installation](#installation)
+  * [Usage](#usage)
+  * [How to Contribute](#how-to-contribute)
+  * [Tests](#tests)
+  * [Questions?](#questions)
+  ## License
+  Read more about BSD 2-clause license here:
+  [BSD 2-clause license](https://opensource.org/licenses/BSD-2-Clause)
+  ## Description
+  This project create readMe's through a readme generator.it will ask you a series of questions and once you have went through all the questions it will create a readme file .
+  ## Installation
+  There is no installation.
+  ## Usage
+  Answer a series of prompts and it will create a readme file with your answers in the correctly assigned sections.
+  ## How to Contribute
+  No other requirments.
+  ## Tests
+  use the Program.
+  ## Questions?
+  ### Reach me here: 
+  [juicyjake12](https://github.com/juicyjake12)  
+  jacob.hopper70@yahoo.com
