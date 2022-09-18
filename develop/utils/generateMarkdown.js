@@ -209,27 +209,36 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ## Badges
   ${renderLicenseBadge(data.license)}
+ 
   ## Table of Contents
   * [License](#license)
   * [Description](#description)
-  * [installation](#installation)
+  * [Installation](#installation)
   * [Usage](#usage)
   * [How to Contribute](#how-to-contribute)
   * [Tests](#tests)
   * [Questions?](#questions)
+  
   ## License
   ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
+  
   ## Description
   ${data.Description}
+ 
   ## Installation
   ${data.installation}
+  
   ## Usage
   ${data.Usage}
+  
   ## How to Contribute
+  [Contributor Covenant](https://www.contributor-covenant.org/) 
   ${data.contributing}
+ 
   ## Tests
   ${data.testing}
+  
   ## Questions?
   ### Reach me here: 
   [${data.username}](https://github.com/${data.username})  
