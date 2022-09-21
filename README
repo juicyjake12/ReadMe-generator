@@ -1,37 +1,37 @@
 # ReadMe Generator
   ## Badges
-  [![License: AFL-3.0](https://img.shields.io/badge/License-AFL--3.0-lightgrey.svg)](https://opensource.org/licenses/AFL-3.0)
+  [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
  
   ## Table of Contents
-  * [License](#License)
-  * [Description](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [How to Contribute](#How-to-contribute)
-  * [Tests](#Tests)
-  * [Questions?](#Questions)
+  * [License](#license)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [How to Contribute](#how-to-contribute)
+  * [Tests](#tests)
+  * [Questions?](#questions)
   
   ## License
-  Read more about Academic Free License v3.0 here:
-  [Academic Free License v3.0](https://opensource.org/licenses/AFL-3.0)
+  Read more about Artistic license 2.0 here:
+  [Artistic license 2.0](https://opensource.org/licenses/Artistic-2.0)
   
   ## Description
-  This project create readMe's through a readme generator.it will ask you a series of questions and once you have went through all the questions it will create a readme file .
+  undefined
  
   ## Installation
-  There is no installation.
+  there is no installation
   
   ## Usage
-  Answer a series of prompts and it will create a readme file with your answers in the correctly assigned sections.
+  undefined
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/) 
-   No other requirments.
+  No other requirments.
  
   ## Tests
-  use the program.
+  use the program
   
   ## Questions?
   ### Reach me here: 
   [juicyjake12](https://github.com/juicyjake12)  
-    jacob.hopper70@yahoo.com
+      jacob.hopper70@yahoo.com

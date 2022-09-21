@@ -211,13 +211,13 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
  
   ## Table of Contents
-  * [License](#License)
-  * [Description](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [How to Contribute](#How-to-contribute)
-  * [Tests](#Tests)
-  * [Questions?](#Questions)
+  * [License](#license)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [How to Contribute](#how-to-contribute)
+  * [Tests](#tests)
+  * [Questions?](#questions)
   
   ## License
   ${renderLicenseSection(data.license)}

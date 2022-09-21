@@ -14,7 +14,7 @@ function userInput(){
         },
         {
             type: "input",
-            name: "Description",
+            name: "description",
             message: "What is your project description?"
         },
         {
@@ -25,7 +25,7 @@ function userInput(){
         },
         {
             type: "input",
-            name: "Usage",
+            name: "usage",
             message: "how does your app work?"
         },
         {
