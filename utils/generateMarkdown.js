@@ -211,6 +211,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
  
   ## Table of Contents
+
   * [License](#license)
   * [Description](#description)
   * [Installation](#installation)
@@ -224,13 +225,13 @@ function generateMarkdown(data) {
   ${renderLicenseLink(data.license)}
   
   ## Description
-  ${data.Description}
+  ${data.description}
  
   ## Installation
   ${data.installation}
   
   ## Usage
-  ${data.Usage}
+  ${data.usage}
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/) 

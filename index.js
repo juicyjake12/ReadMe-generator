@@ -61,7 +61,7 @@ function userInput(){
  
 // function to write README file
 function writeToFile(fileName, data) {
-    fileName = "README";
+    fileName = "README.md";
     fs.appendFile(`${fileName}`, data, 
     (err) => err ? console.error(err) : console.log(`${fileName}.md has been generated.`))
 }
