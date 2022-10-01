@@ -1,4 +1,4 @@
-# f
+# sample readme
   ## Badges
   [![License: AFL-3.0](https://img.shields.io/badge/License-AFL--3.0-lightgrey.svg)](https://opensource.org/licenses/AFL-3.0)
  
@@ -17,22 +17,22 @@
   [Academic Free License v3.0](https://opensource.org/licenses/AFL-3.0)
   
   ## Description
-  f
+  sample readme
  
   ## Installation
-  f
+  you cant
   
   ## Usage
-  f
+  sample readme
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/) 
-  f
+  sample readme
  
   ## Tests
-  f
+  none
   
   ## Questions?
   ### Reach me here: 
-  [f](https://github.com/f)  
-  f
+  [juicyjake12](https://github.com/juicyjake12)  
+  juicyjake1234@gmail.com
