@@ -1,4 +1,4 @@
-# sample readme
+# ReadMe Generator
   ## Badges
   [![License: AFL-3.0](https://img.shields.io/badge/License-AFL--3.0-lightgrey.svg)](https://opensource.org/licenses/AFL-3.0)
  
@@ -17,17 +17,17 @@
   [Academic Free License v3.0](https://opensource.org/licenses/AFL-3.0)
   
   ## Description
-  sample readme
+  This project creates a readme.md by answering the given prompts.
  
   ## Installation
-  you cant
+  you cant.
   
   ## Usage
-  sample readme
+  This app works by answering the given prompts to automatically create a readme.
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/) 
-  sample readme
+  no contributers.
  
   ## Tests
   none
@@ -35,4 +35,4 @@
   ## Questions?
   ### Reach me here: 
   [juicyjake12](https://github.com/juicyjake12)  
-  juicyjake1234@gmail.com
+  jacob.hopper70@yahoo.com
